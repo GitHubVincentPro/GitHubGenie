@@ -1,0 +1,7 @@
+- Encodeur LSTM:
+- 128 unités
+- Dropout 0.2
+
+- Décodeur LSTM:
+- 128 unités
+- Dropout 0.2
