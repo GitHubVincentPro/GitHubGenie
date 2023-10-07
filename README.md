@@ -6,7 +6,7 @@ D'accord, voici le README.md pour le projet GitHubGenie:
 # 🧞‍♂️ GitHubGenie
 🧑‍💻 Un assistant IA qui génère automatiquement des projets GitHub
 
-![Logo du projet]()
+
 
 GitHubGenie a pour ambition de créer le premier bot capable de coder et générer de manière autonome des projets Open Source sur GitHub.
 
