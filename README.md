@@ -22,7 +22,7 @@ GitHubGenie a pour ambition de créer le premier bot capable de coder et génér
 
 GitHubGenie est développé en Python avec les librairies Keras, TensorFlow et Github API.```bash
 # Clone le repo
-git clone [https://github.com/vous/GitHubGenie](https://github.com/GitHubVincentPro/GitHubGenie)
+git clone [https://github.com/GitHubVincentPro/GitHubGenie](https://github.com/GitHubVincentPro/GitHubGenie)
 
 # Installe les dépendances
 pip install -r requirements.txt
