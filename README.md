@@ -35,3 +35,12 @@ Le bot devrait commencer à générer ses premiers projets !
 ## 🤝 Contribution
 
 Ce projet en est à ses débuts, toutes les 🙌 contributions sont les bienvenues !
+
+### DEV
+
+- datasets: stockage et traitement des données
+- models: modèles d'IA
+- src: logique métier et génération de code
+- tests: tests unitaires
+- notebooks: exploration et apprentissage
+- docs: documentation
